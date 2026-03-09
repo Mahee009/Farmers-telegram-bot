@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+node_modules/
+venv/
+.venv/
+
+tomato leaf classification/test
+tomato leaf classification/train
+tomato leaf classification/valid
+*.DS_Store
+
+user_data.json

@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+python-dotenv
+inference-sdk  
+requests
+fuzzywuzzy
+python-Levenshtein
